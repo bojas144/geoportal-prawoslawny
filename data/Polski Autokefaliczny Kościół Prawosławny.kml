@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Polski Autokefaliczny Kościół Prawosławny</name>
+    <description>Według https://www.orthodox.pl/wp-content/uploads/2013/03/Wykaz-adresowy-PAKP-2016.pdf </description>
+    <NetworkLink>
+      <name>Polski Autokefaliczny Kościół Prawosławny</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1pWLFSqeUakDI9pMMrP_IbZShIsvJNi_J]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
